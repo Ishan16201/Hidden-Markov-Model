@@ -1,0 +1,7 @@
+=== KalmanHMM Diagnostic Report ===
+Model: 2 Regimes, 1 States
+Log-Likelihood: -288.05
+BIC: 663.10
+[WARNING] Non-white residuals detected (Ljung-Box p < 0.05). Suggest higher-order dynamics.
+[NOTE] Non-Gaussian residuals detected. Consider robust estimation or student-t emissions.
+Avg Regime Persistence: 16.24 ticks
